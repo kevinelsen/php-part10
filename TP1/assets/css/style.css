@@ -1,0 +1,65 @@
+body{
+    background-image: linear-gradient(to top right, rgba(0,0,0,0), rgba(0,0,0,1));
+    font-family: 'Baloo Tammudu', cursive;
+}
+h1 {
+    webkit-box-shadow: -57px 15px 25px -4px rgba(0,0,0,0.75);
+    moz-box-shadow: -57px 15px 25px -4px rgba(0,0,0,0.75);
+    box-shadow: -57px 15px 25px -4px rgba(0,0,0,0.75);
+    webkit-border-radius: 10px;
+    moz-border-radius: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom left, rgba(0,0,0,0), rgba(0,0,0,1));
+    margin: 70px;
+    text-decoration: underline white;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 22%;
+    width:50%;
+    color: whitesmoke;
+}
+.titre{
+    margin-top: 10px;
+}
+.lastName{
+    margin-top: 20px;
+}
+ul{
+    width:90%;
+    height:110%;
+    webkit-box-shadow: -49px 45px 16px 11px rgba(0,0,0,0.46);
+    moz-box-shadow: -49px 45px 16px 11px rgba(0,0,0,0.46);
+    box-shadow: -49px 45px 16px 11px rgba(0,0,0,0.46);
+    webkit-border-radius: 10px;
+    moz-border-radius: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom left, rgba(0,0,0,0), rgba(0,0,0,2));
+    border: 3px black;
+    margin: 70px;
+    text-align: center;
+    box-sizing: 2em;
+}
+li {
+    margin: 40px;
+    color: whitesmoke;
+}
+#bouton{
+    display: block;
+    margin : auto;
+}
+p{
+    width:30%;
+    height:100%;
+     webkit-box-shadow: -57px 15px 25px -4px rgba(0,0,0,0.75);
+    moz-box-shadow: -57px 15px 25px -4px rgba(0,0,0,0.75);
+    box-shadow: -57px 15px 25px -4px rgba(0,0,0,0.75);
+    webkit-border-radius: 10px;
+    moz-border-radius: 10px;
+    border-radius: 10px;
+     background-image: linear-gradient(to bottom left, rgba(0,0,0,0), rgba(0,0,0,2));
+     margin-bottom: 40px;
+    margin-left: 34%;
+    text-align: center;
+    box-sizing: 2em;
+    color: whitesmoke;
+}
